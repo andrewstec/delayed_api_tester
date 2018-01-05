@@ -1,10 +1,8 @@
-# redis_mongodb_api_flow
-Based on Redis data, perform a MongoDB query, and relay information to API
+# Timer Payload API Tester
+For testing two consecutive payloads of different types.
 
-This saved the day today, and I was not sure what to do with the code. It would be a shame to let it go to waste. 
+Small timer delay.
 
-Here is a script to take Redis information, perform a MongoDb query based off of it, and then, finally, perform an API call.
-
-Type 'yarn install', edit URLs and queries inside `fix.js`, and then type `node fix.js` to run.
+Super simple.
 
 MIT License
